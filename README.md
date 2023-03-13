@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Panos. I love solving challenging problems
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanosDine&show_icons=true&theme=radical)
 
 <!--
 **PanosDine/PanosDine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
