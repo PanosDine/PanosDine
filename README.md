@@ -13,10 +13,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanosDine&layout=compact" width="400">
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=moulin-rouge" width="400">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=Badbatch-website" width="400">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=SunFire" width="400">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=moulin-rouge)](https://github.com/PanosDine/moulin-rouge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=Badbatch-website)](https://github.com/PanosDine/Badbatch-website/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=SunFire)](https://github.com/PanosDine/SunFire)
 
 
 
