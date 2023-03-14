@@ -4,6 +4,8 @@
 - 🔭 I’m currently working as a Django developer
 - 😄 I’m passionate about Astronomy
 - 👯 I’m looking to collaborate on Space related projects
+
+
 Find me on <p><a href="https://www.linkedin.com/in/panos-dine-46a163119/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/640px-Linkedin_icon.svg.png" width="30"></a></p>
 
 <br>
