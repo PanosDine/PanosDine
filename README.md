@@ -1,21 +1,23 @@
 ### Hi there 👋 I'm Panos. I love solving challenging problems
 
 
-
 - 🔭 I’m currently working as a Django developer
 - 😄 I’m passionate about Astronomy
 - 👯 I’m looking to collaborate on Space related projects
 
+<br>
+<br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=PanosDine&show_icons=true&theme=radical" width="500">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanosDine&layout=compact" width="500">
 
+<br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PanosDine&show_icons=true&theme=radical" width="400">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanosDine&layout=compact" width="400">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=moulin-rouge" width="400">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=Badbatch-website" width="400">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=SunFire" width="400">
+### Pinned Repositories
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=moulin-rouge" width="500">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=Badbatch-website" width="500">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=SunFire" width="500">
 
 
 
