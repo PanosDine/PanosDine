@@ -9,10 +9,9 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=PanosDine&show_icons=true&theme=radical" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=PanosDine&show_icons=true&theme=radical" width="400">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosDine&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanosDine&layout=compact" width="400">
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=moulin-rouge)](https://github.com/PanosDine/moulin-rouge)
