@@ -18,9 +18,11 @@ Find me on <p><a href="https://www.linkedin.com/in/panos-dine-46a163119/" target
 <br>
 
 ### Pinned Repositories
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=moulin-rouge" width="500">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=Badbatch-website" width="500">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=SunFire" width="500">
+<p><a href="https://github.com/PanosDine/moulin-rouge" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=moulin-rouge" width="500"></a></p>
+
+<p><a href="https://github.com/PanosDine/Badbatch-website" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=Badbatch-website" width="500"></a></p>
+
+<p><a href="https://github.com/PanosDine/SunFire" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PanosDine&repo=SunFire" width="500"></a></p>
 
 
 
