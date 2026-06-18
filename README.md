@@ -11,7 +11,7 @@ Find me on <p><a href="https://www.linkedin.com/in/panos-dine-46a163119/" target
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PanosDine&show_icons=true&theme=radical" width="500">
+<img src="https://github-readme-stats.vercel.app/api?username=PanosDine&show_icons=true&theme=radical&include_orgs=true" width="500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanosDine&layout=compact" width="500">
 
 <br>
